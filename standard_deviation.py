@@ -1,6 +1,4 @@
 import csv
-import plotly.express as px
-import pandas as pd
 import math
 
 with open('data.csv', newline="") as file:
